@@ -1,7 +1,9 @@
 # ED_ST_GEOSTATS
 Edinburgh Space Time Geostatistics
 
-I wrote this programme many years ago as a tool for the completion of my PhD thesis. Ive since moved on to orher disciplines, but im sharingbit here in the hope it is useful to others.
+I wrote this programme many years ago as a tool for the completion of my PhD thesis. 
+Ive since moved on to orher disciplines, but im sharing it here in the hope it is useful to others.
+
 
 The Fortran 90 routines allow for the spatio-temporal regionalization of data via geostatistical methods. The
 programs utilize the product and product sum covariance representations of spatio-
