@@ -1,0 +1,34 @@
+FILENAMES [Data,Grid,Output]:
+~/My_Programs/Gaussim/Data/Indicators/Indicators.txt
+~/My_Programs/Gaussim/Data/Grid2.txt
+~/My_Programs/Gaussim/Outputs/Default_s8_t10/Indicators/Output.txt
+
+METHOD [0=SK,1=OK,2=KED]
+1
+
+MODE [0=Debug,1=Default,2=Jack Knife]:
+1
+
+SEARCH STRATEGY [Neighbours,Window]:
+8	10
+
+STRUCTURES [Spatial,Temporal]:
+2	1	
+
+TAU [Spatial,Temporal]:
+0.05517177	0.09938904
+
+GLOBAL SILL:
+0.23
+
+COVARIANCE MODEL [0=Product,1=Product-Sum]:
+1
+
+Spatial		]--------- Theta ---------[	Rotation
+=========================================================
+Spherical	0.05145573	21.31576840	21.31576840	0	0
+Gaussian	0.05892974	190.87139394	190.87139394	0	0
+
+Temporal	]--------- Theta ---------[
+============================================
+Exponential	0.08130264	3.82753839	1
